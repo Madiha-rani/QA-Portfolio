@@ -13,8 +13,7 @@ Aspiring *Software QA Engineer* with practical experience in *manual testing, bu
 - *Manual Testing:* Functional, Usability, Responsiveness  
 - *Test Documentation:* Test Cases, Bug Reports, Checklists
 - *jira bug tracking tool  
-- *API Testing:* Postman (basic)  
-- *Performance Testing:* JMeter (beginner)    
+- *API Testing:* Postman (basic)     
 - *Version Control:* Git & GitHub  
 
 ---
