@@ -17,7 +17,8 @@ Aspiring *Software QA Engineer* with practical 8+ experience in *manual testing,
 - Agil/scrum frame works
 - Testrail/Zephyre 
 - *API Testing:* Postman
-- performnace tesing Jmeter
+- *jmeter* performance testing
+- SQL(structure query language)
 - UI/UX Testing  using Devtool
 - *Version Control:* Git & GitHub  
 
